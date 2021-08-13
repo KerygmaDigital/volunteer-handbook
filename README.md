@@ -16,8 +16,8 @@ description: 1st Edition
 
 ## Table of Contents
 
-1. [Introduction](introduction-1/intro/introduction.md)  
-2. [Roles at Kerygma Digital Co.](introduction-1/intro/roles-within-kerygma-digital-co..md)  
+1. [Introduction](introduction.md)  
+2. [Roles at Kerygma Digital Co.](roles-within-kerygma-digital-co..md)  
 3. [Communinty Manager](./)  
 4. [Support Specialist](./)  
 5. [Licensing Specialist](./)  
