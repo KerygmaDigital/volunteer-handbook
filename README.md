@@ -24,9 +24,9 @@ description: 1st Edition
 6. [Software Engineer](./6.-software-engineer.md)  
 7. [Localisation](./7.-localisation.md)  
 
-   7.1. [Localisation Specialist](./7.-localisation.md#7.1.-Localisation-Specialist)  
+   7.1. [Localisation Specialist](./7.-localisation.md#71-Localisation-Specialist)  
 
-   7.2. [Localisation Coordinator](./7.-localisation.md#7.1.-Localisation-Coordinator)  
+   7.2. [Localisation Coordinator](./7.-localisation.md#72-Localisation-Coordinator)  
 
 8. [Sources and References](./8.-sources-and-references.md)  
 9. [Appendices](./9.-appendices.md)  
