@@ -9,7 +9,7 @@ description: 1st Edition
 ###### E. Pardee
 <hr>
 # Table of Contents  
-1. [Introduction]()  
+1. [Introduction](./Introduction.md)  
 2. [Roles at Kerygma Digital Co.]()  
 3. [Communinty Manager]()  
 4. [Support Specialist]()  
