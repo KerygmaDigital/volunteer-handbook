@@ -3,9 +3,6 @@ description: 1st Edition
 ---
 
 # Kerygma Digital Volunteer Handbook
-
-## Kerygma Digital Volunteer Handbook
-
 1st Edition
 
 ### C. Wiesel
