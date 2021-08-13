@@ -4,12 +4,14 @@ description: 1st Edition
 
 # Kerygma Digital Volunteer Handbook
 1st Edition
+<hr>
 
 ### C. Wiesel
 
 ### P. Voss
 
 ### E. Pardee
+<hr>
 
 ## Table of Contents
 
