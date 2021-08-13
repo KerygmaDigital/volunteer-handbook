@@ -10,7 +10,7 @@ description: 1st Edition
 <hr>
 # Table of Contents  
 1. [Introduction](./introduction.md)  
-2. [Roles at Kerygma Digital Co.]()  
+2. [Roles at Kerygma Digital Co.](./roles-within-kerygma-digital-co..md)  
 3. [Communinty Manager]()  
 4. [Support Specialist]()  
 5. [Licensing Specialist]()  
