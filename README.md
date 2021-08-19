@@ -30,22 +30,23 @@ description: 1st Edition
 
 3. [Communinty Manager](./3.-community-manager.md)  
 
-	3.1. [Diakonos Commands](./3.-community-manager.md#31-diakonos-commands)
-		3.1.1. [`.mute`, `.kick`, `.permaban` and `.ban`](./3.-community-manager.md#311-mute-kick-permaban-and-ban)
-		3.1.2. [The Warning System](./3.-community-manager.md#312-the-warning-system)
-		3.1.3. [Cases](./3.-community-manager.md#313-cases)
-		3.1.4. [User Information](./3.-community-manager.md#314-user-information)
-		3.1.5. [Image Permissions](./3.-community-manager.md#315-image-permissions)
+	3.1. [Diakonos Commands](./3.-community-manager.md#31-diakonos-commands)  
+		3.1.1. [`.mute`, `.kick`, `.permaban` and `.ban`](./3.-community-manager.md#311-mute-kick-permaban-and-ban)  
+		3.1.2. [The Warning System](./3.-community-manager.md#312-the-warning-system)  
+		3.1.3. [Cases](./3.-community-manager.md#313-cases)  
+		3.1.4. [User Information](./3.-community-manager.md#314-user-information)  
+		3.1.5. [Image Permissions](./3.-community-manager.md#315-image-permissions)  
 
 	3.2. [The Rules](./3.-community-manager.md#32-the-rules)
 
 	3.3. [Guidelines](./3.-community-manager.md#33-guidelines)  
 		3.3.1. [Definitions](./3.-community-manager.md#331-definitions)  
-		3.3.2. [LGBTQIA+ Discussions](./3.-community-manager.md#332-lgbtqia-discussions)  
+		3.3.2. [LGBTQIA+ Discussions](./3.-community-manager.md#332-lgbtqia-discussions)    
 		3.3.3. [Arguments Using the Scriptures](./3.-community-manager.md#333-arguments-using-the-scriptures)  
-		3.3.4. [Violations of Rule 9](./3.-community-manager.md#334-violations-of-rule-9)
+		3.3.4. [Violations of Rule 9](./3.-community-manager.md#334-violations-of-rule-9)  
 		3.3.5. [Spam, Trolling, and excessive NSFW content](./3.-community-manager.md#335-spam-trolling-and-excessive-nsfw-content)  
 		3.3.6. [Uncertainty](./3.-community-manager.md#336-uncertainty)  
+
 4. [Support Specialist](./4.-support-specialist.md)  
 5. [Licensing Specialist](./5.-licensing-specialist.md)  
 6. [Software Engineer](./6.-software-engineer.md)   
