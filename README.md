@@ -52,7 +52,7 @@ description: 1st Edition
 		5.1.2. [The Development Cycle](./5.-software-engineer.md#512-the-development-cycle)  
 		5.1.3. [The Development Environment](./5.-software-engineer.md#513-the-development-environment)  
 
-	5.2. [Mentoring and Guidance](./5.-software-engineer.md#52-mentoring-and-guidance)
+	5.2. [Mentoring and Guidance](./5.-software-engineer.md#52-mentoring-and-guidance)  
 	
 6. [Localisation](./6.-localisation.md)  
 
