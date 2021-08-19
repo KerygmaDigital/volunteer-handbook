@@ -51,7 +51,7 @@ description: 1st Edition
 5. [Licensing Specialist](./5.-licensing-specialist.md)  
 6. [Software Engineer](./6.-software-engineer.md)   
 	
-	6.1. [Workflow](./6.-software-engineer.md#61-workflow)
+	6.1. [Workflow](./6.-software-engineer.md#61-workflow)  
 		6.1.1. [Project Hierarchies](./6.-software-engineer.md#611-project-hierachies)  
 		6.1.2. [The Development Cycle](./6.-software-engineer.md#612-the-development-cycle)  
 	
