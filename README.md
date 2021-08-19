@@ -16,39 +16,45 @@ description: 1st Edition
 ## Table of Contents
 
 1. [Introduction](./1.-introduction.md)  
-2. [Roles at Kerygma Digital Co.](./2.-roles-within-kerygma-digital-co..md)  
-3. [Communinty Manager](./3.-community-manager.md)  
 
-	3.1. [Diakonos Commands](./3.-community-manager.md#31-diakonos-commands)
-		3.1.1. [`.mute`, `.kick`, `.permaban` and `.ban`](./3.-community-manager.md#311-mute-kick-permaban-and-ban)
-		3.1.2. [The Warning System](./3.-community-manager.md#312-the-warning-system)
-		3.1.3. [Cases](./3.-community-manager.md#313-cases)
-		3.1.4. [User Information](./3.-community-manager.md#314-user-information)
-		3.1.5. [Image Permissions](./3.-community-manager.md#315-image-permissions)
+	1.1. [Roles at Kerygma Digital Co.](./1-introduction.md#11-roles-at-kerygma-digital-co)  
+		1.1.1. [Community](./1.-introduction.md#111-community)  
+		4.1.2. [Engineering](./1.-introduction.md#112-engineering)  
+		5.1.3. [Licensing](./1.-introduction.md#113-licensing)  
+		6.1.4. [Localisation](./1.-introduction.md#114-localisation)  
+		7.1.5. [Support](./1.-introduction.md#115-support)  
 
-	3.2. [The Rules](./3.-community-manager.md#32-the-rules)
+2. [Communinty Manager](./2.-community-manager.md)  
 
-	3.3. [Guidelines](./3.-community-manager.md#33-guidelines)  
-		3.3.1. [Definitions](./3.-community-manager.md#331-definitions)  
-		3.3.2. [LGBTQIA+ Discussions](./3.-community-manager.md#332-lgbtqia-discussions)  
-		3.3.3. [Arguments Using the Scriptures](./3.-community-manager.md#333-arguments-using-the-scriptures)  
-		3.3.4. [Violations of Rule 9](./3.-community-manager.md#334-violations-of-rule-9)
-		3.3.5. [Spam, Trolling, and excessive NSFW content](./3.-community-manager.md#335-spam-trolling-and-excessive-nsfw-content)  
-		3.3.6. [Uncertainty](./3.-community-manager.md#336-uncertainty)  
-4. [Support Specialist](./4.-support-specialist.md)  
-5. [Licensing Specialist](./5.-licensing-specialist.md)  
-6. [Software Engineer](./6.-software-engineer.md)   
+	2.1. [Diakonos Commands](./2.-community-manager.md#21-diakonos-commands)
+		2.1.1. [`.mute`, `.kick`, `.permaban` and `.ban`](./2.-community-manager.md#211-mute-kick-permaban-and-ban)
+		2.1.2. [The Warning System](./2.-community-manager.md#212-the-warning-system)
+		2.1.3. [Cases](./2.-community-manager.md#213-cases)
+		2.1.4. [User Information](./2.-community-manager.md#214-user-information)
+		2.1.5. [Image Permissions](./2.-community-manager.md#215-image-permissions)
+
+	2.2. [The Rules](./2.-community-manager.md#22-the-rules)
+
+	2.3. [Guidelines](./2.-community-manager.md#23-guidelines)  
+		2.3.1. [Definitions](./2.-community-manager.md#231-definitions)  
+		2.3.2. [LGBTQIA+ Discussions](./2.-community-manager.md#232-lgbtqia-discussions)  
+		2.3.3. [Arguments Using the Scriptures](./2.-community-manager.md#233-arguments-using-the-scriptures)  
+		2.3.4. [Violations of Rule 9](./2.-community-manager.md#234-violations-of-rule-9)
+		2.3.5. [Spam, Trolling, and excessive NSFW content](./2.-community-manager.md#235-spam-trolling-and-excessive-nsfw-content)  
+		2.3.6. [Uncertainty](./2.-community-manager.md#236-uncertainty)  
+3. [Support Specialist](./3.-support-specialist.md)  
+4. [Licensing Specialist](./4.-licensing-specialist.md)  
+5. [Software Engineer](./5.-software-engineer.md)   
 	
-	6.1. [Workflow](./6.-software-engineer.md#61-workflow)
-		6.1.1. [Project Hierarchies](./6.-software-engineer.md#611-project-hierachies)  
-		6.1.2. [The Development Cycle](./6.-software-engineer.md#612-the-development-cycle)  
+	5.1. [Workflow](./5.-software-engineer.md#51-workflow)
+		5.1.1. [Project Hierarchies](./5.-software-engineer.md#511-project-hierachies)  
+		5.1.2. [The Development Cycle](./5.-software-engineer.md#512-the-development-cycle)  
 	
-7. [Localisation](./7.-localisation.md)  
+6. [Localisation](./6.-localisation.md)  
 
-   7.1. [Localisation Specialist](./7.-localisation.md#71-Localisation-Specialist)  
+  	6.1. [Localisation Specialist](./6.-localisation.md#61-Localisation-Specialist)  
 
-   7.2. [Localisation Coordinator](./7.-localisation.md#72-Localisation-Coordinator)  
+  	6.2. [Localisation Coordinator](./6.-localisation.md#62-Localisation-Coordinator)  
 
-8. [Sources and References](./8.-sources-and-references.md)  
-9. [Appendices](./9.-appendices.md)  
-
+7. [Sources and References](./7.-sources-and-references.md)  
+8. [Appendices](./8.-appendices.md)  
