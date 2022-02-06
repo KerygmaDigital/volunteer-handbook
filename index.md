@@ -19,10 +19,10 @@ description: 1st Edition
 
 	1.1. [Roles at Kerygma Digital Co.](./1-introduction.md#11-roles-at-kerygma-digital-co)  
 		1.1.1. [Community](./1.-introduction.md#111-community)  
-		4.1.2. [Engineering](./1.-introduction.md#112-engineering)  
-		5.1.3. [Licensing](./1.-introduction.md#113-licensing)  
-		6.1.4. [Localisation](./1.-introduction.md#114-localisation)  
-		7.1.5. [Support](./1.-introduction.md#115-support)  
+		1.1.2. [Engineering](./1.-introduction.md#112-engineering)  
+		1.1.3. [Licensing](./1.-introduction.md#113-licensing)  
+		1.1.4. [Localisation](./1.-introduction.md#114-localisation)  
+		1.1.5. [Support](./1.-introduction.md#115-support)  
 
 2. [Communinty Manager](./2.-community-manager.md)  
 
@@ -31,7 +31,8 @@ description: 1st Edition
 		2.1.2. [The Warning System](./2.-community-manager.md#212-the-warning-system)  
 		2.1.3. [Cases](./2.-community-manager.md#213-cases)  
 		2.1.4. [User Information](./2.-community-manager.md#214-user-information)  
-		2.1.5. [Image Permissions](./2.-community-manager.md#215-image-permissions)  
+		2.1.5. [Image Permissions](./2.-community-manager.md#215-image-permissions) 
+		2.1.6. [Outages](./2.-community-manager.md#216-outages)   
 
 	2.2. [The Rules](./2.-community-manager.md#22-the-rules)  
 
