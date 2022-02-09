@@ -31,7 +31,7 @@ description: 1st Edition
 		2.1.2. [The Warning System](./2.-community-manager.md#212-the-warning-system)  
 		2.1.3. [Cases](./2.-community-manager.md#213-cases)  
 		2.1.4. [User Information](./2.-community-manager.md#214-user-information)  
-		2.1.5. [Image Permissions](./2.-community-manager.md#215-image-permissions) 
+		2.1.5. [Image Permissions](./2.-community-manager.md#215-image-permissions)  
 		2.1.6. [Outages](./2.-community-manager.md#216-outages)   
 
 	2.2. [The Rules](./2.-community-manager.md#22-the-rules)  
